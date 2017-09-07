@@ -16,6 +16,8 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     qcnvitems \
     qcrilhook \
+    ims \
+    imscmlibrary \
     libHevcSwDecoder
 
 $(call inherit-product, vendor/motorola/msm8916-common/msm8916-common-vendor-blobs.mk)
